@@ -33,5 +33,4 @@ The game is this, musky fishing is based on precise knowledge of patterns with d
 <img src="https://media.giphy.com/media/5jmTPfXnCGgiLgt3F5/giphy.gif"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
