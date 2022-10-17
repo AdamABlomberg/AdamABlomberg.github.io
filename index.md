@@ -1,11 +1,11 @@
-## Portfolio
+## Technical Portfolio
 
 ---
 
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://media.giphy.com/media/6TFeyshhBSyLvsqmMD/giphy.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
