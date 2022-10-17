@@ -10,11 +10,15 @@ I worked with a team of three engineers to update an outdated client-facing reta
 <img src="https://media.giphy.com/media/cIeewUTHjMjmcHMML8/giphy.gif"/>
 
 ---
+
 ### Old School:  An Accessible Video Sharing Platform for the Elderly
 
 I worked in a team of 6 to create a video platform specificly for our older generation to share their wisdom and experiences.  Taking into account our target users, accessability for those users, and our time frame, we created exactly that. Users are able create profiles through google authentication, upload videos and blogs, favorite other creators and receive notifications when those creators upload, vote on video categories, and more!  
-<img src="https://media.giphy.com/media/3HhjgZkK6aT8QAN08u/giphy.gif"/>
+
+<img src="https://media.giphy.com/media/3HhjgZkK6aT8QAN08u/giphy.gif"/> 
+
 <img src="https://camo.githubusercontent.com/83396e0918f9c64f3468b5ca916aab41616564e2f91c4346e02bb1e0883d8b38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d4767376c307a57437a6d5241677236766e2f67697068792e676966"/>
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="[images/dummy_thumbnail.jpg?raw=true](https://camo.githubusercontent.com/83396e0918f9c64f3468b5ca916aab41616564e2f91c4346e02bb1e0883d8b38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d4767376c307a57437a6d5241677236766e2f67697068792e676966)"/>
